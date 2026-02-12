@@ -1,0 +1,14 @@
+{
+  "model": "gpt-5-mini",
+  "dataset": "repobench_200.jsonl",
+  "items": 200,
+  "start_epoch": 1767568276,
+  "end_epoch": 1767569802,
+  "total_time_s": 1526.29,
+  "strict_accuracy": 0.385, (38,5%)
+  "contains_accuracy": 0.385,
+  "avg_latency_s": 7.570000000000008,
+  "sum_input_tokens": 190255,
+  "sum_output_tokens": 97215,
+  "est_total_cost_usd": 0.24199375000000004
+}

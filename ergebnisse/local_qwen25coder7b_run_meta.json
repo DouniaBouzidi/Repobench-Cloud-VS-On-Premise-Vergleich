@@ -1,0 +1,13 @@
+{
+  "model": "qwen2.5-coder:7b-instruct-q4_K_M",
+  "base_url": "http://nuc-ai:11434/v1",
+  "dataset": "repobench_200.jsonl",
+  "items": 200,
+  "start_epoch": 1768008830,
+  "end_epoch": 1768060101,
+  "total_time_s": 51271.1,
+  "exact_accuracy": 0.0,
+  "strict_accuracy": 0.025,   (2,5%)
+  "contains_accuracy": 0.35,
+  "avg_latency_s": 254.96185000000003
+}
