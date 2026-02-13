@@ -19,7 +19,7 @@ Dieses Repository enthält Python-Skripte zur Auswertung von Code-Vervollständi
 
 - Python 3.9+
 - Abhängigkeiten aus `requirements.txt`
-  Installation laüft durch:
+  Installation läuft durch:
 
 ```bash
 pip install -r requirements.txt
@@ -79,7 +79,7 @@ On-Premise:
 - `local_qwen25coder7b_details.jsonl`
 - `local_qwen25coder7b_run_meta.json`
 
-Erlklärung:
+Erklärung:
 
 - `*.csv`: kurze Tabelle mit einem Ergebnis pro Aufgabe
 - `*.jsonl`: Details pro Aufgabe (eine Zeile = eine Aufgabe)
